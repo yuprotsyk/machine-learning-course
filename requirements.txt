@@ -1,5 +1,7 @@
 matplotlib
 seaborn
+plotly
 pandas
 numpy
-plotly
+sklearn
+pydotplus
