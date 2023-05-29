@@ -1,0 +1,10 @@
+*-checkpoint.ipynb
+*.html
+data/aclImdb/
+data/*.vw
+data/20news_test_predictions.txt
+data/20news_test_predictions_mult.txt
+data/movie_test_pred.txt
+data/movie_test_pred2.txt
+data/movie_valid_pred.txt
+data/movie_valid_pred2.txt
