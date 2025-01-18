@@ -6,3 +6,5 @@ numpy
 scikit-learn
 pydotplus
 pyarrow
+nbconvert[webpdf]
+playwright
